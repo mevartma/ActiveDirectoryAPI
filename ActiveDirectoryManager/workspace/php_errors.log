@@ -1,0 +1,48 @@
+[24-Apr-2016 07:43:47 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-content/plugins/live-composer-page-builder/includes/ajax.php on line 234
+[24-Apr-2016 07:43:47 UTC] PHP Stack trace:
+[24-Apr-2016 07:43:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[24-Apr-2016 07:43:47 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:89
+[24-Apr-2016 07:43:47 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[24-Apr-2016 07:43:47 UTC] PHP   4. dslc_ajax_add_module() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[24-Apr-2016 07:45:30 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-content/plugins/live-composer-page-builder/includes/ajax.php on line 234
+[24-Apr-2016 07:45:30 UTC] PHP Stack trace:
+[24-Apr-2016 07:45:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[24-Apr-2016 07:45:30 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:89
+[24-Apr-2016 07:45:30 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[24-Apr-2016 07:45:30 UTC] PHP   4. dslc_ajax_add_module() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[24-Apr-2016 08:18:59 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-content/plugins/live-composer-page-builder/includes/ajax.php on line 234
+[24-Apr-2016 08:18:59 UTC] PHP Stack trace:
+[24-Apr-2016 08:18:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[24-Apr-2016 08:18:59 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:89
+[24-Apr-2016 08:18:59 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[24-Apr-2016 08:18:59 UTC] PHP   4. dslc_ajax_add_module() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[24-Apr-2016 08:19:35 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-content/plugins/live-composer-page-builder/includes/ajax.php on line 234
+[24-Apr-2016 08:19:35 UTC] PHP Stack trace:
+[24-Apr-2016 08:19:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[24-Apr-2016 08:19:35 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:89
+[24-Apr-2016 08:19:35 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[24-Apr-2016 08:19:35 UTC] PHP   4. dslc_ajax_add_module() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[24-Apr-2016 08:20:50 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-content/plugins/live-composer-page-builder/includes/ajax.php on line 234
+[24-Apr-2016 08:20:50 UTC] PHP Stack trace:
+[24-Apr-2016 08:20:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[24-Apr-2016 08:20:50 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:89
+[24-Apr-2016 08:20:50 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[24-Apr-2016 08:20:50 UTC] PHP   4. dslc_ajax_add_module() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[24-Apr-2016 08:21:01 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-content/plugins/live-composer-page-builder/includes/ajax.php on line 234
+[24-Apr-2016 08:21:01 UTC] PHP Stack trace:
+[24-Apr-2016 08:21:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[24-Apr-2016 08:21:01 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:89
+[24-Apr-2016 08:21:01 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[24-Apr-2016 08:21:01 UTC] PHP   4. dslc_ajax_add_module() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[24-Apr-2016 08:21:21 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-content/plugins/live-composer-page-builder/includes/ajax.php on line 234
+[24-Apr-2016 08:21:21 UTC] PHP Stack trace:
+[24-Apr-2016 08:21:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[24-Apr-2016 08:21:21 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:89
+[24-Apr-2016 08:21:21 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[24-Apr-2016 08:21:21 UTC] PHP   4. dslc_ajax_add_module() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[24-Apr-2016 08:21:46 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/ubuntu/workspace/wp-content/plugins/live-composer-page-builder/includes/ajax.php on line 234
+[24-Apr-2016 08:21:46 UTC] PHP Stack trace:
+[24-Apr-2016 08:21:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[24-Apr-2016 08:21:46 UTC] PHP   2. do_action() /home/ubuntu/workspace/wp-admin/admin-ajax.php:89
+[24-Apr-2016 08:21:46 UTC] PHP   3. call_user_func_array:{/home/ubuntu/workspace/wp-includes/plugin.php:525}() /home/ubuntu/workspace/wp-includes/plugin.php:525
+[24-Apr-2016 08:21:46 UTC] PHP   4. dslc_ajax_add_module() /home/ubuntu/workspace/wp-includes/plugin.php:525

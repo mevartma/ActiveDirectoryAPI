@@ -1,0 +1,46 @@
+<div class="row">
+  <div class="col-lg-12" ng-controller="AlertsCtrl">
+    <rd-widget>
+      <rd-widget-header icon="fa-users" title="Phone Book">
+        <!--input type="text" placeholder="Search" class="form-control input-sm" ng-model="searchKeyword"/-->
+      </rd-widget-header>
+      <input type="text" placeholder="Search" class="form-control input-sm" ng-model="searchKeyword"/>
+      <rd-widget-body classes="big no-padding">
+        <div class="table-responsive">
+          <table class="table">
+            <thead>
+              <tr>
+                <th>Real Name</th>
+                <th>Stage Name</th>
+                <th>User Name</th>
+                <th>Email Address</th>
+                <th>Extention</th>
+                <th>Department</th>
+                <th>EmployeeId</th>
+                <th>Job Title</th>
+                <th>QMAgent</th>
+                <th>Skype</th>
+                <th>Last Logon</th>
+              </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="aduser in allusers | orderBy: 'DisplayName' | filter: searchKeyword ">
+                  <td>{{ aduser.DisplayName }}</td>
+                  <td>{{ aduser.Description }}</td>
+                  <td>{{ aduser.SamAccountName }}</td>
+                  <td>{{ aduser.EmailAddress }}</td>
+                  <td>{{ aduser.VoiceTelephoneNumber }}</td>
+                  <td>{{ aduser.Department }}</td>
+                  <td>{{ aduser.EmployeeId }}</td>
+                  <td>{{ aduser.JobTitle }}</td>
+                  <td>{{ aduser.QMAgent }}</td>
+                  <td>{{ aduser.Skype }}</td>
+                  <td>{{ aduser.LastLogon }}</td>
+                </tr>
+            </tbody>
+          </table>
+        </div>
+      </rd-widget-body>
+    <rd-widget>
+  </div>
+</div>

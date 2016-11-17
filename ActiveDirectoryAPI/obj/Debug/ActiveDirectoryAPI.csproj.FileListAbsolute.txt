@@ -1,0 +1,177 @@
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\csc.exe
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\System.Collections.Immutable.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\System.Reflection.Metadata.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\vbc.exe
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\VBCSCompiler.exe
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\VBCSCompiler.exe.config
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\ActiveDirectoryAPI.dll.config
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\ActiveDirectoryAPI.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\ActiveDirectoryAPI.pdb
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Antlr3.Runtime.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.Agent.Intercept.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.DependencyCollector.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.Web.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.WindowsServer.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.ApplicationInsights.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.Web.Infrastructure.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Newtonsoft.Json.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Net.Http.Formatting.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Helpers.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Http.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Http.WebHost.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Mvc.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Optimization.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Razor.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.Deployment.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.Razor.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\WebGrease.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.DependencyCollector.xml
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.Web.xml
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.WindowsServer.xml
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.ApplicationInsights.xml
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Newtonsoft.Json.xml
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Net.Http.Formatting.xml
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Helpers.xml
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Http.xml
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Http.WebHost.xml
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Mvc.xml
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Optimization.xml
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Razor.xml
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.xml
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.Deployment.xml
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.Razor.xml
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Antlr3.Runtime.pdb
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\obj\Debug\ActiveDirectoryAPI.csprojResolveAssemblyReference.cache
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\obj\Debug\ActiveDirectoryAPI.dll
+\\betamedia.local\homefolder\mevratm\my documents\visual studio 2015\Projects\ActiveDirectoryAPI\ActiveDirectoryAPI\obj\Debug\ActiveDirectoryAPI.pdb
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\VBCSCompiler.exe
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\csc.exe
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\vbc.exe
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\ActiveDirectoryAPI.dll.config
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\ActiveDirectoryAPI.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\ActiveDirectoryAPI.pdb
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Antlr3.Runtime.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.Web.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.ApplicationInsights.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Newtonsoft.Json.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Net.Http.Formatting.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Helpers.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Http.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Http.WebHost.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Mvc.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Optimization.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Razor.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.Deployment.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.Razor.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\WebGrease.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.Web.xml
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.ApplicationInsights.xml
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Newtonsoft.Json.xml
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Net.Http.Formatting.xml
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Helpers.xml
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Http.xml
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Http.WebHost.xml
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Mvc.xml
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Optimization.xml
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Razor.xml
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.xml
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.Deployment.xml
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.Razor.xml
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Antlr3.Runtime.pdb
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\obj\Debug\ActiveDirectoryAPI.csprojResolveAssemblyReference.cache
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\obj\Debug\ActiveDirectoryAPI.dll
+C:\ASP Projecs\ActiveDirectoryAPI\ActiveDirectoryAPI\obj\Debug\ActiveDirectoryAPI.pdb
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\csc.exe
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\vbc.exe
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\VBCSCompiler.exe
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\ActiveDirectoryAPI.dll.config
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\ActiveDirectoryAPI.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\ActiveDirectoryAPI.pdb
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Antlr3.Runtime.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.Web.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.ApplicationInsights.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Newtonsoft.Json.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Net.Http.Formatting.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Cors.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Helpers.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Http.Cors.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Http.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Http.WebHost.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Mvc.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Optimization.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Razor.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.Deployment.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.Razor.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\WebGrease.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.Web.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.ApplicationInsights.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Http.Cors.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Newtonsoft.Json.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Net.Http.Formatting.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Helpers.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Http.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Http.WebHost.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Mvc.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Optimization.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.Razor.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.Deployment.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\System.Web.WebPages.Razor.xml
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\bin\Antlr3.Runtime.pdb
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\obj\Debug\ActiveDirectoryAPI.csprojResolveAssemblyReference.cache
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\obj\Debug\ActiveDirectoryAPI.dll
+C:\ASPProjecs\ActiveDirectoryAPI\ActiveDirectoryAPI\obj\Debug\ActiveDirectoryAPI.pdb

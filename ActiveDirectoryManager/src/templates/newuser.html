@@ -1,0 +1,68 @@
+<div class="row" ng-controller="ouCtrl">
+  <div class="col-lg-12">
+    <rd-widget>
+      <rd-widget-header icon="fa-user-plus" title="New User">
+      </rd-widget-header>
+      <rd-widget-body classes="big no-padding">
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+          <div class="col-md-6">
+            <br>
+            <div class="form-group">
+              <form role="form">
+                  <div class="form-group">
+                      <label for="frname">First Real Name:</label>
+                      <input type="text" class="form-control" id="frname" placeholder="Enter First Real Name">
+                  </div>
+                  <div class="form-group">
+                      <label for="lrname">Last Real Name:</label>
+                      <input type="text" class="form-control" id="lrname" placeholder="Enter Last Real Name">
+                  </div>
+                  <div class="form-group">
+                      <label for="fsname">First Stage Name:</label>
+                      <input type="text" class="form-control" id="fsname" placeholder="First Stage Name">
+                  </div>
+                  <div class="form-group">
+                      <label for="lsname">Last Stage Name:</label>
+                      <input type="text" class="form-control" id="lsname" placeholder="Enter Last Stage Name">
+                  </div>
+                  <div>
+                      <label for="extList">Select Extention:</label>
+                      <select class="form-control" id="extList"></select>
+                  </div>
+
+                  <div>
+                      <label for="depList">Select Department:</label>
+                      <select class="form-control" id="depList">
+                        <option ng-repeat="ou in ouList" value="{{ ou }}"> {{ ou }} </option>
+                      </select>
+                  </div>
+                  <div>
+                      <label for="domainList">Select Domain:</label>
+                      <select class="form-control" id="domainList">
+                        <option ng-repeat="dom in alldomains" value="{{ dom.Domain }}"> {{ dom.Name }} </option>
+                      </select>
+                  </div>
+                  <br>
+                  <div class="form-group">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                  <div class="form-group">
+              </form>
+            </div>
+          </div>
+        </div>
+      </rd-widget-body>
+      <!--rd-widget-footer>
+        <ul class="pagination pagination-sm pull-right">
+          <li><a href="#">&laquo;</a></li>
+          <li><a href="#">1</a></li>
+          <li><a href="#">2</a></li>
+          <li><a href="#">3</a></li>
+          <li><a href="#">4</a></li>
+          <li><a href="#">5</a></li>
+          <li><a href="#">&raquo;</a></li>
+        </ul>
+        <div class="clearfix"></div>
+      </rd-widget-footer-->
+    </rd-widget>
+  </div>
+</div>

@@ -1,0 +1,127 @@
+﻿[{
+	"Name": "24FX",
+	"Location": "OU=24FX,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Affilates",
+	"Location": "OU=Affiliates,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Content",
+	"Location": "OU=Content,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "CS",
+	"Location": "OU=CS,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "CS-Compliance",
+	"Location": "OU=Complaince Team,OU=CS,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "CS-Joel",
+	"Location": "OU=Joel's Team,OU=CS,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "CS-Valentina",
+	"Location": "OU=Valentina's Team,OU=CS,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Finance",
+	"Location": "OU=Finance,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "BackOffice",
+	"Location": "OU=Regulation & BackOffice,OU=Finance,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Grand",
+	"Location": "OU=Grand,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "IT",
+	"Location": "OU=IT,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Management",
+	"Location": "OU=Management,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "HR",
+	"Location": "OU=HR,OU=Management,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Marketing",
+	"Location": "OU=Marketing,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Email",
+	"Location": "OU=Email,OU=Marketing,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Media",
+	"Location": "OU=Media,OU=Marketing,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "MSO",
+	"Location": "OU=MSO,OU=Marketing,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "PPC",
+	"Location": "OU=PPC,OU=Marketing,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Product",
+	"Location": "OU=Product Management,OU=Marketing,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Quickoption",
+	"Location": "OU=Quickoption,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Risk",
+	"Location": "OU=Risk,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Sales-AR-Conv",
+	"Location": "OU=AR-Conversion,OU=Sales,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Sales-EN-Conv",
+	"Location": "OU=EN-Conversion,OU=Sales,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Sales-EN-Ret",
+	"Location": "OU=EN-Retention,OU=Sales,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Sales-FR-Conv",
+	"Location": "OU=FR-Conversion,OU=Sales,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Sales-FR-Ret",
+	"Location": "OU=FR-Retention,OU=Sales,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Sales-GR-Conv",
+	"Location": "OU=GR-Conversion,OU=Sales,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Sales-GR-Ret",
+	"Location": "OU=GR-Retention,OU=Sales,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Sales-IT-Conv",
+	"Location": "OU=IT-Conversion,OU=Sales,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Sales-IT-Ret",
+	"Location": "OU=IT-Retention,OU=Sales,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Sales-RU-PRet",
+	"Location": "OU=RU-Pre Retention,OU=Sales,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Sales-RU-Ret1",
+	"Location": "OU=RU-Retention-1,OU=Sales,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Sales-RU-Ret2",
+	"Location": "OU=RU-Retention-2,OU=Sales,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Sales-Management",
+	"Location": "OU=Sales Management,OU=Sales,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Sales-SP-Conv",
+	"Location": "OU=SP-Conversion,OU=Sales,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Sales-SP-Ret",
+	"Location": "OU=SP-Retention,OU=Sales,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Ybinary",
+	"Location": "OU=Ybinary,OU=Sales,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Scipio",
+	"Location": "OU=Scipio,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Studio",
+	"Location": "OU=Studio,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Web-PHP",
+	"Location": "OU=PHP,OU=Web Dev,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Web-Net",
+	"Location": "OU=.NET,OU=Web Dev,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}, {
+	"Name": "Web-QA",
+	"Location": "OU=QA,OU=Web Dev,OU=TLV Users,OU=TLV Users & Computers,DC=BETAMEDIA,DC=LOCAL"
+}]
